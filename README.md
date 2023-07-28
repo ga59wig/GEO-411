@@ -14,4 +14,10 @@ Skript zur Berechnung des TWI
 Skripte zur Visualisierung und Datenvorprozessierung von Niederschlagsdaten
 
 05_merge_Sentinel
-Datenaufbereitung, Berechnung der Schwellen 
+Datenaufbereitung, merge der Sentineldaten
+
+06_Sentinel_application
+Berechnung der Schwellwerte und Anwendung auf das UG
+
+07_Sentinel_Boxpplot
+Erstellung der Boxplots
